@@ -1,0 +1,1 @@
+The method of pre-processing the data in our paper is similar to Tuli S, Casale G, Jennings N R. Tranad: Deep transformer networks for anomaly detection in multivariate time series data[J]. arXiv preprint arXiv:2201.07284, 2022.
